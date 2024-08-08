@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Permanent+Marker&display=swap');
+body {
+  background: #ffc2bd !important;
+  font-family: 'DM Serif Display' !important;
+  text-align: center !important;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar a, .navbar input, .navbar button{
+  color: #c7483c;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.carousel-item img {
+  height: 50vh;
+  margin-bottom: 2vh;
+}
+
+.card-body {
+  background-color: #f8e4b7;
+}
+
+.card-footer .text-body-secondary {
+  color: #c7483c !important;
+}
